@@ -1,10 +1,10 @@
 <div align="center">
-  <h2>🚀 Opa eu sou o Lucas H, Estudante de programação e Desenvolvedor Front-End!</h2>
+  <h2>🚀 Opa eu sou Bianca, Estudante de programação e Desenvolvedor Front-End!</h2>
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/lucasdevh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasdevh&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Biancamchdo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biancah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 <br>
     
