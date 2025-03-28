@@ -3,8 +3,8 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/Biancamchdo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biancah&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/biancamchdo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancamchdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
 </div>
 <br>
     
