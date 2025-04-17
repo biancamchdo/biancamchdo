@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>🚀 Opa eu sou Bianca, Estudante de programação e Desenvolvedor Front-End!</h2>
+
 </div>
 <br>
 <div align="center">
