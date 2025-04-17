@@ -5,13 +5,7 @@
 <div align="center">
   <a href="https://github.com/biancamchdo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biancamchdo&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-</div>
-<br>
-    
-    hoppehosting.com
 
-    
-<div style="display: inline_block" align="center"><br>
   <h2>💻 Skills & Expertise</h2>
   <br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
